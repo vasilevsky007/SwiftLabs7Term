@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Cosii4AppSwiftUI.addSample(_:selecledClass:):Cosii4AppSwiftUI.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "model.inputs">
+            </PersistentString>
+            <PersistentString
+               value = "model.targets">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AppDelegate.applicationWillTerminate(_:):cosii4App.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "app.model">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Cosii4AppSwiftUI.save():Cosii4AppSwiftUI.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "model">
+            </PersistentString>
+            <PersistentString
+               value = "FileManager().temporaryDirectory.appendingPathComponent(&quot;COSII4_DATA&quot;, conformingTo: .directory)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Cosii4AppSwiftUI.trainMLP(learningRate:epochs:):Cosii4AppSwiftUI.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "model.inputs">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #5 in closure #1 in ContentView.body.getter:ContentView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "app.model.mlp">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Cosii4AppSwiftUI.predict(image:):Cosii4AppSwiftUI.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "model.mlp2">
+            </PersistentString>
+            <PersistentString
+               value = "model.targets">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
