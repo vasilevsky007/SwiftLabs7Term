@@ -21,7 +21,7 @@
 
 </details>
 
-Code for the app can be found here.
+Code for the app can be found [here](/cosii1).
 
 ### Lab work 2: Cluster analysis in pattern recognition
 
@@ -38,7 +38,7 @@ Code for the app can be found here.
 
 </details>
 
-Code for the app can be found here.
+Code for the app can be found [here](/cosii2).
 
 ### Lab work 4: Multilayer perceptron
 <details>
@@ -50,13 +50,13 @@ Code for the app can be found here.
 4. Подайте на вход сети ряд тестовых образов, по 3 зашумленных образа каждого из 5 классов.
 5. Проанализируйте результаты работы программы, которые должны иметь следующий вид:
   +	вывести распознаваемый зашумленный образ;
-  +	вывести процент подобия распознаваемого зашумленного образа по от-ношению к каждому из 5 классов;
+  +	вывести процент подобия распознаваемого зашумленного образа по отношению к каждому из 5 классов;
   +	вывести количество шагов, затраченных на обучение сети на заданное количество классов.
 
 
 </details>
 
-Code for the app can be found here.
+Code for the app can be found [here](/cosii3).
 
 
 <!--## System software of local computer networks
